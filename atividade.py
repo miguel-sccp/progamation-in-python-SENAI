@@ -10,8 +10,8 @@ sobrenome=input("digite tbm seu sobrenome")
 print("seja bem vindo",nome, sobrenome)
 
 #3 - Peça ao usuário para digitar dois números inteiros e armazene-os em variáveis. Realize a concatenação desses números como strings e exiba o resultado
-n1= int(input("digite um numero"))
-n2= int(input("digite outro numero"))
+n1= int(input("digite um numero:"))
+n2= int(input("digite outro numero:"))
 print(str(n1))
 print(str(n2))
 
