@@ -12,7 +12,8 @@ print("seja bem vindo",nome, sobrenome)
 #3 - Peça ao usuário para digitar dois números inteiros e armazene-os em variáveis. Realize a concatenação desses números como strings e exiba o resultado
 n1= int(input("digite um numero"))
 n2= int(input("digite outro numero"))
-print(n1,n2)
+print(str(n1))
+print(str(n2))
 
 #4 - Crie uma variável para armazenar a palavra "Python". Em seguida, adicione um número inteiro ao final da palavra usando a concatenação e exiba o resultado.
 palavra="python"
