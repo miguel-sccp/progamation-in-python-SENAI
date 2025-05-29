@@ -14,7 +14,3 @@ print(numeros)
 #5
 Carros=['Nivus','Tcross','Jetta']
 print(numeros,Carros)
-
-
-
-
