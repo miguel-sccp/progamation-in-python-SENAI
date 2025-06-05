@@ -35,5 +35,6 @@ def calculadora():
 
 while True:
     calculadora()
+
 input('digite enter para sair')
 
