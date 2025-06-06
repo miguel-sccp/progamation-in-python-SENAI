@@ -1,12 +1,14 @@
 import random
 
 #1
+print("ATIVIDADE 1:")
 def ale_num():
   ale = random.randint(5,10)
   print(ale)
 
 ale_num()
 #2
+print("ATIVIDADE 2:")
 def num_ale():
     ale_1=random.randint(5,50)
     ale_2=random.randint(5,50)
@@ -18,6 +20,7 @@ def num_ale():
      ''')
 num_ale()
 #3
+print("ATIVIDADE 3:")
 def num_3_ale():
     ale_1=random.randrange(5,50)
     ale_2=random.randrange(5,50)
@@ -29,6 +32,7 @@ def num_3_ale():
      ''')
 num_3_ale()
 #4
+print("ATIVIDADE 4:")
 def contagem_regressiva():
     for i in range(10,0,-1):
         print(i)
@@ -37,6 +41,7 @@ def contagem_regressiva():
 
 contagem_regressiva()
 #5
+print("ATIVIDADE 5:")
 def soma_pares():
     n=int(input('digite um num int'))
     I=[]
@@ -46,6 +51,7 @@ def soma_pares():
     print(soma)
 soma_pares()
 #6
+print("ATIVIDADE 6:")
 def taboada():
   n=int(input('digite o multiplicador da tabuada:'))
   for i in range(0,11):
@@ -54,6 +60,7 @@ def taboada():
     print(n, 'x', i, '=', calculo)
 taboada()
 #7
+print("ATIVIDADE 7:")
 def contagem_regressiva_impar():
     for i in range(99,0,-2):
         print(i)
@@ -61,4 +68,7 @@ def contagem_regressiva_impar():
 
 
 contagem_regressiva_impar() 
+
+
+
 
