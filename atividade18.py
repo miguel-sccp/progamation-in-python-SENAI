@@ -47,7 +47,7 @@ celular_digitado.grid(row=5, column=1, padx=5, pady=5)
 
 
 
-botao = tk.Button(janela, text = 'eviar', font=('arial', 15), command=dispay)
+botao = tk.Button(janela, text = 'enviar', font=('arial', 15), command=dispay)
 botao.grid(row=6, column=0, padx=5, pady=5) 
 
 Mostrar_nome = tk.Label(janela, text = '', font=('arial', 15))
